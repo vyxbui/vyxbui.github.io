@@ -1,6 +1,6 @@
 import './Hero.css'
 import { MdArrowDownward } from 'react-icons/md'
-import headshot from './assets/headshot.jpg'
+import headshot from 'src/assets/headshot.jpg'
 
 const ScrollDownIcon = () => {
   return (
