@@ -4,7 +4,7 @@ const Awards = () => {
   const awards = [
     {
       year: '2025',
-      title: 'Student Undergraduate Research Award',
+      title: 'Undergraduate Student Research Award',
       organization: 'Natural Sciences and Engineering Research Council of Canada (NSERC)'
     },
     {

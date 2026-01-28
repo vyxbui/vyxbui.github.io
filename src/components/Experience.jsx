@@ -8,7 +8,7 @@ const Experience = () => {
       organization: 'McGill University, Montreal',
       note: 'Renewal of contract to a Research Assistant position during the Fall semester',
       points: [
-        'Recipient of the NSERC Student Undergraduate Research Award',
+        'Recipient of the NSERC Undergraduate Student Research Award',
         'Lead developer using an existing large codebase, developing the RESTful backend of an LLM-integrated web-based tool using Python libraries such as Flask and HuggingFace',
         'Contribute to the writing of a scientific paper submitted to a top conference under the supervision of a PhD student and Prof. Jin Guo'
       ]
