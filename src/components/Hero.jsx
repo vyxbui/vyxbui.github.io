@@ -1,5 +1,6 @@
 import './Hero.css'
 import { MdArrowDownward } from 'react-icons/md'
+import headshot from './assets/headshot.jpg'
 
 const ScrollDownIcon = () => {
   return (
@@ -16,7 +17,7 @@ const Hero = () => {
         <div className="hero-image-container">
           <div className="hero-image-placeholder">
             <img 
-              src="src/assets/headshot.jpg" 
+              src={headshot}
               alt="Headshot of me and my dog Sunny"
               className="hero-image"
               onError={(e) => {
