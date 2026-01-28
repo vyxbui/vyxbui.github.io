@@ -30,7 +30,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-content">
-          <h1 className="hero-name">Hi! I'm Vy :)</h1>
+          <h1 className="hero-name">Vy Bui</h1>
           <p className="hero-location">Montreal, QC</p>
           <div className="hero-contact">
             <a href="mailto:vy.bui@mail.mcgill.ca">vy.bui@mail.mcgill.ca</a>
@@ -39,7 +39,7 @@ const Hero = () => {
           </div>
           <div className="hero-description">
             <h2>Software Engineering Researcher & Computer Science Student</h2>
-            <p>Welcome to my website :) I am an undergraduate student in my final year in the Honours Computer Science program at McGill University.
+            <p>Hi! Welcome to my website :) My name is Vy, and I am an undergraduate student in my final year in the Honours Computer Science program at McGill University.
             </p>
             <p>Passionate and curious about understanding and supporting how users interact with software and AI systems, I will be starting a Master of Science in Computer Science in September 2026 to further develop my research skills and pursue work at the intersection of HCI and software engineering!
             </p>
